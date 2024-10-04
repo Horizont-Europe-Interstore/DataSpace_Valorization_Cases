@@ -1,0 +1,3 @@
+Insert the url below in your internet browser, to access the Green EV charging Ranking tool:
+
+http://cc-cpes-248.inesctec.pt:8084/

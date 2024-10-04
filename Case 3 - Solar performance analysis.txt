@@ -1,0 +1,3 @@
+Insert the url below in your internet browser, to access the solar performance analysis tool:
+
+http://cc-cpes-124.inesctec.pt:8084/

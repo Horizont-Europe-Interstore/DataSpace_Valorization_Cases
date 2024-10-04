@@ -1,0 +1,4 @@
+Insert the url below in your internet browser, to access the battery dispatch optimization tool:
+
+http://interstore-dev.inesctec.pt:3000/admin/home
+
